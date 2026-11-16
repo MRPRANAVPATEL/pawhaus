@@ -32,14 +32,14 @@ Pawhaus is a polished, single-page frontend concept designed for pet accessories
 
 ## Live demo
 
-- **GitHub Pages:** https://mrpranavpatel.github.io/pawhaus/ (available after Pages is enabled and published)
+- **Live demo (GitHub Pages):** https://mrpranavpatel.github.io/pawhaus/
 - **Vercel:** Coming soon. The deployment URL will be added later.
 
 ## Deployment
 
 This repository includes a root-level `index.html` and can be hosted as a static website on GitHub Pages or Vercel.
 
-For GitHub Pages, open **Settings → Pages**, select **Deploy from a branch**, choose **main** and **/(root)**, and save. Once GitHub finishes publishing, the GitHub Pages URL above should work.
+For GitHub Pages, open **Settings → Pages**, select **Deploy from a branch**, choose **main** and **/(root)**, and save. The live GitHub Pages demo is available at the link above.
 
 ## Important notes
 
