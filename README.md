@@ -33,7 +33,7 @@ Pawhaus is a polished, single-page frontend concept designed for pet accessories
 ## Live demo
 
 - **Live demo (GitHub Pages):** https://mrpranavpatel.github.io/pawhaus/
-- **Vercel:** Coming soon. The deployment URL will be added later.
+- **Vercel (live):** https://pawhaus-pet.vercel.app/
 
 ## Deployment
 
