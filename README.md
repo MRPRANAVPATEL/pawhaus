@@ -23,7 +23,7 @@
 
 Premium responsive pet essentials eCommerce website template built with HTML, CSS and JavaScript.
 
-> **Portfolio / practice project:** Created for personal practice, design exploration and showcasing frontend development. This repository is a website template, not an operating store or publishing platform. Use and adapt at your discretion, and review asset rights and third-party dependencies before production use.
+> **Portfolio / practice project:** Created for personal practice, design exploration and showcasing frontend development. This repository is a website template, not an operating store or publishing platform. If you’d like to use or adapt the template, review asset rights and third-party dependencies before production use.
 
 ## About the template
 
